@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Chinthapenta Srikar and I'm a passionate student and efficient coder from Vizag..</h2>
+<h2 align="left">Hi 👋! I’m Chinthapenta Srikar — the coder from Vizag who solves problems before they realize they exist.</h2>
 
 ###
 
