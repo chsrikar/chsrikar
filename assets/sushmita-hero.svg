@@ -1,0 +1,137 @@
+<svg width="1200" height="400" viewBox="0 0 1200 400" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Sri Sushmita Dasari - AI/ML Engineer">
+  <defs>
+    <!-- Burgundy gradient background -->
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#10070C;stop-opacity:1">
+        <animate attributeName="stop-color" values="#10070C;#190B12;#10070C" dur="8s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="50%" style="stop-color:#190B12;stop-opacity:1"/>
+      <stop offset="100%" style="stop-color:#451126;stop-opacity:1">
+        <animate attributeName="stop-color" values="#451126;#701A3D;#451126" dur="8s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+    
+    <!-- Animated accent gradient for name -->
+    <linearGradient id="nameGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#E5B5C7;stop-opacity:1">
+        <animate attributeName="offset" values="0;0.3;0" dur="4s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="50%" style="stop-color:#F8F0F3;stop-opacity:1">
+        <animate attributeName="offset" values="0.5;0.8;0.5" dur="4s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" style="stop-color:#C77B9B;stop-opacity:1">
+        <animate attributeName="offset" values="1;0.7;1" dur="4s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+    
+    <!-- Glowing underline gradient -->
+    <linearGradient id="glowGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#701A3D;stop-opacity:0.3"/>
+      <stop offset="50%" style="stop-color:#C77B9B;stop-opacity:0.9">
+        <animate attributeName="stop-opacity" values="0.9;1;0.9" dur="2s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" style="stop-color:#701A3D;stop-opacity:0.3"/>
+    </linearGradient>
+    
+    <!-- Technical grid pattern -->
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#451126" stroke-width="0.5" opacity="0.15"/>
+    </pattern>
+    
+    <!-- Orbital circles filter -->
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="2" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    
+    <!-- Animated path for orbital geometry -->
+    <path id="orbit1" d="M 100,200 Q 300,120 500,200 T 900,200" fill="none" stroke="#701A3D" stroke-width="1" opacity="0.4"/>
+    <path id="orbit2" d="M 150,250 Q 350,170 550,250 T 950,250" fill="none" stroke="#451126" stroke-width="1" opacity="0.3"/>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="1200" height="400" fill="url(#bgGrad)"/>
+  
+  <!-- Technical grid overlay -->
+  <rect width="1200" height="400" fill="url(#grid)"/>
+  
+  <!-- Orbital geometry elements -->
+  <circle cx="120" cy="80" r="3" fill="#701A3D" opacity="0.6" filter="url(#glow)">
+    <animate attributeName="cy" values="80;85;80" dur="3s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="1080" cy="320" r="4" fill="#C77B9B" opacity="0.5" filter="url(#glow)">
+    <animate attributeName="cx" values="1080;1075;1080" dur="4s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="950" cy="100" r="2" fill="#E5B5C7" opacity="0.7">
+    <animate attributeName="r" values="2;3;2" dur="2.5s" repeatCount="indefinite"/>
+  </circle>
+  
+  <!-- Animated orbital paths -->
+  <use href="#orbit1">
+    <animate attributeName="opacity" values="0.4;0.7;0.4" dur="6s" repeatCount="indefinite"/>
+  </use>
+  <use href="#orbit2">
+    <animate attributeName="opacity" values="0.3;0.6;0.3" dur="7s" repeatCount="indefinite"/>
+  </use>
+  
+  <!-- Animated SVG path decoration (left side) -->
+  <path d="M 50,180 Q 80,200 50,220" stroke="#C77B9B" stroke-width="2" fill="none" opacity="0.6">
+    <animate attributeName="d" 
+             values="M 50,180 Q 80,200 50,220; M 50,180 Q 70,200 50,220; M 50,180 Q 80,200 50,220" 
+             dur="3s" 
+             repeatCount="indefinite"/>
+  </path>
+  
+  <!-- Main content group -->
+  <g id="content">
+    <!-- Name -->
+    <text x="600" y="160" font-family="system-ui, -apple-system, 'Segoe UI', sans-serif" font-size="72" font-weight="700" fill="url(#nameGrad)" text-anchor="middle" letter-spacing="-1">
+      SRI SUSHMITA DASARI
+    </text>
+    
+    <!-- Glowing animated underline beneath name -->
+    <line x1="280" y1="175" x2="920" y2="175" stroke="url(#glowGrad)" stroke-width="3" opacity="0.8">
+      <animate attributeName="x1" values="280;260;280" dur="3s" repeatCount="indefinite"/>
+      <animate attributeName="x2" values="920;940;920" dur="3s" repeatCount="indefinite"/>
+    </line>
+    
+    <!-- Role line -->
+    <text x="600" y="220" font-family="system-ui, -apple-system, 'Segoe UI', sans-serif" font-size="24" font-weight="400" fill="#E5B5C7" text-anchor="middle" letter-spacing="2" opacity="0.95">
+      AI/ML ENGINEER  ·  FULL-STACK DEVELOPER  ·  CREATIVE TECHNOLOGIST
+    </text>
+    
+    <!-- Decorative elements -->
+    <circle cx="250" cy="215" r="2" fill="#C77B9B" opacity="0.8">
+      <animate attributeName="opacity" values="0.8;0.3;0.8" dur="2s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="950" cy="215" r="2" fill="#C77B9B" opacity="0.8">
+      <animate attributeName="opacity" values="0.3;0.8;0.3" dur="2s" repeatCount="indefinite"/>
+    </circle>
+    
+    <!-- Technical detail line with animation -->
+    <g opacity="0.4">
+      <line x1="100" y1="280" x2="400" y2="280" stroke="#701A3D" stroke-width="1">
+        <animate attributeName="x2" values="400;450;400" dur="5s" repeatCount="indefinite"/>
+      </line>
+      <line x1="800" y1="280" x2="1100" y2="280" stroke="#701A3D" stroke-width="1">
+        <animate attributeName="x1" values="800;750;800" dur="5s" repeatCount="indefinite"/>
+      </line>
+    </g>
+    
+    <!-- Subtitle -->
+    <text x="600" y="300" font-family="'Georgia', serif" font-size="16" font-style="italic" fill="#E5B5C7" text-anchor="middle" opacity="0.75">
+      Building intelligent systems with precision and purpose
+    </text>
+  </g>
+  
+  <!-- Corner accent elements -->
+  <g opacity="0.3">
+    <polyline points="20,20 50,20 50,50" stroke="#C77B9B" stroke-width="2" fill="none"/>
+    <polyline points="1180,20 1150,20 1150,50" stroke="#C77B9B" stroke-width="2" fill="none"/>
+    <polyline points="20,380 50,380 50,350" stroke="#C77B9B" stroke-width="2" fill="none"/>
+    <polyline points="1180,380 1150,380 1150,350" stroke="#C77B9B" stroke-width="2" fill="none"/>
+  </g>
+</svg>

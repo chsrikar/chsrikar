@@ -1,0 +1,40 @@
+<svg width="1200" height="120" viewBox="0 0 1200 120" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Footer decoration">
+  <defs>
+    <linearGradient id="footerGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#190B12;stop-opacity:0"/>
+      <stop offset="50%" style="stop-color:#701A3D;stop-opacity:0.6">
+        <animate attributeName="stop-opacity" values="0.6;0.9;0.6" dur="4s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" style="stop-color:#190B12;stop-opacity:0"/>
+    </linearGradient>
+    
+    <filter id="footerGlow">
+      <feGaussianBlur stdDeviation="1.5" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+  
+  <!-- Decorative line -->
+  <line x1="0" y1="40" x2="1200" y2="40" stroke="url(#footerGrad)" stroke-width="2"/>
+  
+  <!-- Animated accent circles -->
+  <circle cx="600" cy="40" r="4" fill="#C77B9B" opacity="0.8" filter="url(#footerGlow)">
+    <animate attributeName="opacity" values="0.8;0.4;0.8" dur="3s" repeatCount="indefinite"/>
+  </circle>
+  
+  <circle cx="400" cy="40" r="2" fill="#E5B5C7" opacity="0.6">
+    <animate attributeName="cx" values="400;395;400" dur="2s" repeatCount="indefinite"/>
+  </circle>
+  
+  <circle cx="800" cy="40" r="2" fill="#E5B5C7" opacity="0.6">
+    <animate attributeName="cx" values="800;805;800" dur="2s" repeatCount="indefinite"/>
+  </circle>
+  
+  <!-- Text -->
+  <text x="600" y="80" font-family="system-ui, -apple-system, 'Segoe UI', sans-serif" font-size="14" font-weight="300" fill="#C77B9B" text-anchor="middle" letter-spacing="3" opacity="0.7">
+    DESIGNED WITH PRECISION  ·  BUILT WITH PURPOSE
+  </text>
+</svg>
