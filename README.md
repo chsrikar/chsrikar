@@ -1,5 +1,5 @@
 <!--
-  SRI SUSHMITA DASARI — GITHUB PROFILE
+  CH SRIKAR — GITHUB PROFILE
   Design: BURGUNDY CINEMA (v1 · premium editorial)
   Theme: Midnight burgundy with animated SVG elements
   Repository: [username]/[username]
@@ -15,17 +15,29 @@
 
 <div align="center">
 
-<img src="assets/sushmita-hero.svg" width="100%" alt="Sri Sushmita Dasari — AI/ML Engineer, Full-Stack Developer, Creative Technologist"/>
+<img src="assets/srikar-hero.svg" width="100%" alt="CH Srikar — AI/ML Researcher, Systems Architect, IIT Madras"/>
 
 <br/><br/>
 
 </div>
 
-## 👋 Hello, I'm Sushmita
+## ◈ About Me
 
-I'm an **AI/ML Engineer**, **Full-Stack Developer**, and **Creative Technologist** passionate about building intelligent systems that solve real-world problems. My work combines machine learning innovation with production-ready software engineering.
+Hey, I'm **Srikar** — an AI/ML enthusiast, systems architect, and aspiring AI researcher passionate about building intelligent, efficient, and scalable systems.
 
-I believe in **precision over perfection**, **purpose over features**, and **impact over complexity**.
+I'm pursuing a **B.Tech in Computer Science (AI & ML)** alongside the **B.S. in Data Science and Applications at IIT Madras**. My interests lie at the intersection of AI research, systems engineering, and computational efficiency.
+
+🔬 **Currently exploring:** Adaptive inference for resource-constrained LLMs, edge intelligence, Physics-Informed Neural Networks (PINNs), and scientific machine learning.
+
+⚙️ **Building with:** Python, PyTorch, TensorFlow, C/C++, Linux, Docker, and modern web technologies.
+
+🧠 **Research interests:** Efficient LLM architectures, model optimization, uncertainty estimation, computer vision, and AI systems that adapt to real-world computational constraints.
+
+🚀 **Beyond code:** I contribute to research initiatives, explore system architectures, and enjoy transforming experimental ideas into practical implementations.
+
+🤝 **Open to:** AI/ML research collaborations, R&D opportunities, and open-source projects tackling challenging technical problems.
+
+> *My goal is to bridge the gap between intelligent algorithms and efficient real-world systems — building AI that is not only capable, but practical, adaptive, and accessible.*
 
 <br/>
 
@@ -37,18 +49,23 @@ I believe in **precision over perfection**, **purpose over features**, and **imp
 <tr>
 <td width="50%" valign="top">
 
-**B.Tech in Artificial Intelligence and Machine Learning**  
-📍 Aditya Engineering College  
-🎯 CGPA: **9.10** / 10.0
+**B.Tech in Computer Science (AI & ML)**  
+📍 Engineering College  
+🎯 In Progress
+
+**B.S. in Data Science and Applications**  
+📍 IIT Madras  
+🎯 In Progress
 
 </td>
 <td width="50%" valign="top">
 
-**Specializations**
-- Deep Learning & Neural Networks
-- Machine Learning Systems
-- Computer Vision & NLP
-- Software Engineering
+**Focus Areas**
+- AI Research & Systems Engineering
+- Adaptive LLM Inference
+- Physics-Informed Neural Networks (PINNs)
+- Scientific Machine Learning
+- Computational Efficiency
 
 </td>
 </tr>
@@ -62,10 +79,7 @@ I believe in **precision over perfection**, **purpose over features**, and **imp
 
 <div align="center">
 
-| Achievement | Description | Year |
-|------------|-------------|------|
-| 🥈 **Flipkart GRiD 7.0** | National Semi-Finalist — India's premier engineering challenge | 2024 |
-| 💜 **Myntra WeForShe HackerRamp** | Top 100 Teams — Innovation in technology | 2026 |
+*Add your verified achievements here as you earn them*
 
 </div>
 
@@ -93,54 +107,54 @@ I believe in **precision over perfection**, **purpose over features**, and **imp
 <tr>
 <td width="50%" valign="top">
 
-### 🤖 Machine Learning Projects
+### 🔬 AI/ML Research Projects
 
-**[Project Name 1](#)** — Brief description  
-*Tech Stack: PyTorch, FastAPI, Docker*
+**[Adaptive Edge Intelligence](#)** — Resource-aware LLM inference  
+*Tech Stack: PyTorch, C++, Edge Computing*
 
-**[Project Name 2](#)** — Brief description  
-*Tech Stack: TensorFlow, Keras, OpenCV*
+**[PRANA-G (PINNs)](#)** — Physics-Informed Neural Networks  
+*Tech Stack: DeepXDE, Scientific ML, Python*
 
-**[Project Name 3](#)** — Brief description  
-*Tech Stack: scikit-learn, Pandas, NumPy*
+**[TrueFrame](#)** — Multimodal synthetic media detection  
+*Tech Stack: EfficientNet, Computer Vision, OpenCV*
 
 </td>
 <td width="50%" valign="top">
 
-### 🌐 Full-Stack Applications
+### ⚙️ Systems & Engineering
 
-**[Application Name 1](#)** — Brief description  
-*Tech Stack: React, Node.js, MongoDB*
+**[LLM Optimization Framework](#)** — Model compression & inference  
+*Tech Stack: PyTorch, ONNX, TensorRT*
 
-**[Application Name 2](#)** — Brief description  
-*Tech Stack: Next.js, Django, PostgreSQL*
+**[Distributed ML Pipeline](#)** — Scalable training system  
+*Tech Stack: Docker, Kubernetes, FastAPI*
 
-**[Application Name 3](#)** — Brief description  
-*Tech Stack: TypeScript, FastAPI, Redis*
+**[Real-time Vision System](#)** — Edge AI deployment  
+*Tech Stack: TensorFlow Lite, OpenCV, C++*
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🎨 Creative Technology
+### 🧠 Scientific ML
 
-**[Creative Project 1](#)** — Brief description  
-*Tech Stack: Three.js, WebGL, D3.js*
+**[Uncertainty Estimation](#)** — Bayesian neural networks  
+*Tech Stack: PyTorch, Probabilistic Models*
 
-**[Creative Project 2](#)** — Brief description  
-*Tech Stack: SVG Animation, GSAP, Canvas*
+**[Neural ODE Solver](#)** — Differential equations with ML  
+*Tech Stack: DiffEq, Scientific Computing*
 
 </td>
 <td width="50%" valign="top">
 
-### 📊 Data Science & Analytics
+### 🌐 Full-Stack Applications
 
-**[Analysis Project 1](#)** — Brief description  
-*Tech Stack: Pandas, Matplotlib, Seaborn*
+**[Research Dashboard](#)** — ML experiment tracking  
+*Tech Stack: React, FastAPI, PostgreSQL*
 
-**[Analysis Project 2](#)** — Brief description  
-*Tech Stack: NumPy, SciPy, Jupyter*
+**[AI Model Registry](#)** — Model versioning system  
+*Tech Stack: Django, Docker, Redis*
 
 </td>
 </tr>
@@ -158,25 +172,29 @@ I believe in **precision over perfection**, **purpose over features**, and **imp
 
 <div align="center">
 
-### Languages & Frameworks
+### Core Languages
 
-<img src="https://skillicons.dev/icons?i=python,javascript,typescript,cpp,java" alt="Languages"/>
+<img src="https://skillicons.dev/icons?i=python,cpp,c,javascript" alt="Languages"/>
 
-### AI & Machine Learning
+### AI/ML & Scientific Computing
 
 <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv" alt="AI/ML"/>
 
-### Web Development
+**Also:** NumPy · SciPy · scikit-learn · DeepXDE · JAX
 
-<img src="https://skillicons.dev/icons?i=react,nodejs,nextjs,fastapi,django" alt="Web Dev"/>
+### Systems & DevOps
 
-### Tools & Platforms
+<img src="https://skillicons.dev/icons?i=linux,docker,bash,git,github" alt="Systems"/>
 
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,figma" alt="Tools"/>
+**Also:** Kubernetes · CI/CD · ONNX · TensorRT
 
-### Databases
+### Web & APIs
 
-<img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql,redis" alt="Databases"/>
+<img src="https://skillicons.dev/icons?i=react,fastapi,django,nodejs" alt="Web"/>
+
+### Databases & Tools
+
+<img src="https://skillicons.dev/icons?i=postgresql,mongodb,redis,vscode" alt="Tools"/>
 
 </div>
 
@@ -218,13 +236,17 @@ I believe in **precision over perfection**, **purpose over features**, and **imp
 
 ---
 
-## 🎯 Core Principles
+## 🎯 Research Philosophy
 
 <div align="center">
 
-| **LEARN** | **BUILD** | **ITERATE** | **SHARE** | **IMPACT** |
-|:---------:|:---------:|:-----------:|:---------:|:----------:|
-| Master fundamentals and emerging technologies | Create solutions that matter | Improve through feedback and testing | Contribute to open source | Measure real-world results |
+| **UNDERSTAND** | **DESIGN** | **OPTIMIZE** | **VALIDATE** | **DEPLOY** |
+|:--------------:|:----------:|:------------:|:------------:|:----------:|
+| First principles thinking | Architecture before code | Efficiency without compromise | Evidence-based evaluation | Real-world constraints matter |
+
+<br/>
+
+> *"Building AI that is not only capable, but practical, adaptive, and accessible."*
 
 </div>
 
@@ -236,8 +258,8 @@ I believe in **precision over perfection**, **purpose over features**, and **imp
 
 <div align="center">
 
-I'm always interested in collaborating on innovative projects, discussing AI/ML challenges,  
-or exploring new opportunities in technology and creative development.
+**Open to:** AI/ML research collaborations, R&D opportunities, and open-source projects  
+tackling challenging technical problems in efficient AI systems.
 
 <br/>
 
@@ -249,12 +271,12 @@ or exploring new opportunities in technology and creative development.
 
 <br/><br/>
 
-### 💻 Coding Profiles
+### 💻 Coding & Research Profiles
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/[username])
 [![CodeChef](https://img.shields.io/badge/CodeChef-Profile-5B4638?style=flat-square&logo=codechef&logoColor=white)](https://codechef.com/users/[username])
 [![HackerRank](https://img.shields.io/badge/HackerRank-Profile-2EC866?style=flat-square&logo=hackerrank&logoColor=white)](https://hackerrank.com/[username])
-[![Kaggle](https://img.shields.io/badge/Kaggle-Profile-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://kaggle.com/[username])
+[![Google Scholar](https://img.shields.io/badge/Google_Scholar-Profile-4285F4?style=flat-square&logo=googlescholar&logoColor=white)](https://scholar.google.com/[username])
 
 <br/><br/>
 

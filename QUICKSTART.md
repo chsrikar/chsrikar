@@ -5,17 +5,17 @@
 ### Before You Publish - Required Changes
 
 1. **Find & Replace in `README.md`:**
-   - `[username]` → Your GitHub username (e.g., `sushmita-dasari`)
-   - `[email]` → Your email (e.g., `sushmita@example.com`)
+   - `[username]` → Your GitHub username (e.g., `chsrikar`)
+   - `[email]` → Your email (e.g., `srikar@example.com`)
    - `[portfolio-url]` → Your website (or remove if none)
 
 2. **Update Projects Section:**
-   - Replace placeholder project names
+   - Replace placeholder project names with your actual projects
    - Add real repository links
    - Write actual descriptions
 
 3. **Update Coding Profiles:**
-   - Add your LeetCode, CodeChef, HackerRank, Kaggle usernames
+   - Add your LeetCode, CodeChef, HackerRank, Google Scholar links
    - Remove platforms you don't use
 
 4. **Privacy Check:**
